@@ -112,29 +112,43 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: 
 RegisterNumber:  
 */
+### SR FLIPFLOP
+![SR](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/772b274a-555b-45dd-897d-694282688654)
 
+### D FLIPFLOP
+![D](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/72028672-4e61-43ad-b17e-09d91ad5a8ab)
 
+### JK FLIPFLOP
+![JK](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/49d72e01-9b4f-48cb-a670-ce252c30c8b7)
 
-
-
+### T FLIPFLOP
+![T](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/5865c1b1-2afe-446b-9c00-d9e6f0d5acc6)
 
 ### RTL LOGIC FOR FLIPFLOPS 
+### SR FLIPFLOP
+![SR RTL](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/fde69421-c4f9-4e73-b3db-e7ce1720203a)
 
+### D FLIPFLOP
+![D RTL](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/23c28a64-dfd8-4e26-89b8-b13070c1f09c)
 
+### JK FLIPFLOP
+![JK RTL](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/5be21d1e-3520-4650-89fa-71f167c2771e)
 
-
-
-
-
-
+### T FLIPFLOP
+![T RTL](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/d62e4fa8-4fec-4fbb-a07d-28a844914ff6)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+### SR FLIPFLOP
+![SR TIME](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/f94beb1f-d8d1-4af4-947f-e9b3b8d2363e)
 
+### D FLIPFLOP
+![D TIME](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/13936bc3-8491-4033-a367-21abb5c2fceb)
 
+### JK FLIPFLOP
+![JK TIME](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/f6410e2a-0fa0-470e-91f3-88798ada95ec)
 
-
-
-
-
+### T FLIPFLOP
+![t time](https://github.com/praveen2p/Experiment--05-Implementation-of-flipflops-using-verilog/assets/151658061/3bcfda67-23da-488b-a2aa-147529b2f802)
 
 ### RESULTS 
+Thus SR, D , JK and T flip flop has been executed successfully using verilog programming
